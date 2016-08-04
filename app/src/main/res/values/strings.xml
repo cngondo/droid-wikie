@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Droid Wikie</string>
+    <string name="title">Android Wiki</string>
+    <string name="green">GREEN IS FOR ANDROID</string>
 </resources>
